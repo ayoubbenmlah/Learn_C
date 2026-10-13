@@ -1,4 +1,4 @@
-#includ <stdio.h>
+#include <stdio.h>
 
 int main(){
     //This is my first program! :)
@@ -13,6 +13,6 @@ int main(){
     comment :)
     */
     printf("Hello world :)\n");
-    printf("Nice meeting you :)\n")
+    printf("Nice meeting you :)\n");
     return 0;
 }
