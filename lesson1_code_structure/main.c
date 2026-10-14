@@ -12,6 +12,9 @@ int main(){
     multiline 
     comment :)
     */
+
+    //- we use \n to do a new line.
+    //-also this is how you do a print :)
     printf("Hello world :)\n");
     printf("Nice meeting you :)\n");
     return 0;
