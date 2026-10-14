@@ -8,5 +8,6 @@ int main(){
     printf("your gpa is $ %f \n",gpa);
     printf("the price is %.2f\n",price);
     printf("the temperture is %.2f\n",temp);
+    
     return 0;
 }

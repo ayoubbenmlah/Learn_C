@@ -11,6 +11,5 @@ int main(){
     printf("This year is %d\n",year);
     printf("You have orderd %d x items \n",quantity);
 
-    
     return 0;
 }
