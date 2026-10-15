@@ -17,11 +17,10 @@ int main(){
 
     if(isOnline){
 
-        printf("You are online");
+        printf("You are online ");
     }
     else{
-        printf("Your are not online");
+        printf("Your are not online ");
     }
     return 0;
-
 }
