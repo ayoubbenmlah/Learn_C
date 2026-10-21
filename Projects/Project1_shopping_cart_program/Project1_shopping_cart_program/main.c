@@ -11,7 +11,7 @@ int main(){
     fgets(item,sizeof(item),stdin);
     item[strlen(item)-1]='\0';
     printf("what is the price of the item: ");
-    scanf(" %f",&price);
+    scanf("%f",&price);
     printf("how many of this item will you purchase: ");
 
     scanf("%d",&quantity);
