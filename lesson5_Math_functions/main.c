@@ -10,7 +10,6 @@ int main(){
     //x=pow(x,2);
     //printf("%d",x);
     //y=round(y);
-    //printf("%.2f",y);
     //y=ceil(y);
     //y=floor(y);
     //x= abs(x);
@@ -18,6 +17,8 @@ int main(){
     //x=sin(x);
     //x=cos(x);
     //x=tan(x);
-    printf("%d",x);
+    //These are some useful math function :)
+    printf("%d\n",x);
+    printf("%.2f\n",y);   
     return 0;
 }
