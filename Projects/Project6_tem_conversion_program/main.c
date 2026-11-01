@@ -17,14 +17,13 @@ int main(){
         printf("Enter the temp in (F): ");
         scanf("%f",&temp_f);
         temp_c=(temp_f-32)*5/9;
-        printf("your temperature in C is -----> %0.2f(C)\n",temp_c);
+        printf("your temperature in C is ------> %0.2f(C)\n",temp_c);
         break;
     case 'F':
         printf("Enter the temp in (C): ");
         scanf("%f",&temp_c);
         temp_f=(temp_c*1.8)+32;
-        
-        printf("your temperature in F is -----> %0.2f(F)\n",temp_f);
+        printf("your temperature in F is ------> %0.2f(F)\n",temp_f);
         break;
     default:
         printf("You did not select (F) no (C)");
